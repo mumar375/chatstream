@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546335809399",
+    "project_id": "chat-steam",
+    "storage_bucket": "chat-steam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546335809399:android:d3b23a0a3e690086478b72",
+        "android_client_info": {
+          "package_name": "com.example.chatstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546335809399-163mkmnahdu55o1lmpdtkepan1dquma3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatstream",
+            "certificate_hash": "2b55c02f8f705f62e1194b8f5c1dbedbef7d2f5f"
+          }
+        },
+        {
+          "client_id": "546335809399-6sfo5iv5348mth6b9m61t7h619alp2q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiarxc9te_IODf8N5iwabhoCM7pTdbcoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546335809399-6sfo5iv5348mth6b9m61t7h619alp2q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
