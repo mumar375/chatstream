@@ -1,6 +1,6 @@
 # chatstream
 
-A new Flutter project.
+Firebase Authentication With shared prefrences.
 
 ## Getting Started
 
